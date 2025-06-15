@@ -4,7 +4,7 @@ This tutorial series is designed for learners with minimal background in Python.
 
 Link to full playlist | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh) |
 
-Note: if Windows users fall into some error, it could be related to PATH environments, this link is helpful to debug those | [Link](https://www.youtube.com/watch?v=OdIHeg4jj2c&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=25)
+Note: if Windows users fall into some error, it could be related to PATH Environment Variables, this link is helpful to debug those | [Link](https://www.youtube.com/watch?v=OdIHeg4jj2c&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=25)
 
 ## Module 1: Python Fundamentals
 
