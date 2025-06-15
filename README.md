@@ -4,6 +4,8 @@ This tutorial series is designed for learners with minimal background in Python.
 
 Link to full playlist | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh) |
 
+Note: if Windows users fall into some error, it could be related to PATH environments, this link is helpful to debug those | [Link](https://www.youtube.com/watch?v=OdIHeg4jj2c&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=25)
+
 ## Module 1: Python Fundamentals
 
 **Goal:** Build a solid foundation in Python syntax, data types, and control structures.
@@ -18,8 +20,6 @@ Link to full playlist | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=
 | 6 | Conditionals and Booleans | If, else, elif statements and logical operations | [Link](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=6) |
 | 7 | Loops and Iterations | Using for/while loops, break, continue | [Link](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=7) |
 | 8 | Functions | Defining, calling, and understanding scope | [Link](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=8) |
-
-**Milestone 1:** Complete a mini project (e.g., contact book, basic calculator)
 
 ---
 
@@ -38,17 +38,6 @@ This module transitions from basic Python syntax into practical scripting and da
 | 18 | Anaconda - Installation and Using Conda | Set up environments and manage packages using Anaconda | [Link]() |
 | 20 | Jupyter Notebook - Introduction, Setup, and Walkthrough | Learn to use Jupyter for interactive development and documentation | [Link]() |
 | 24 | Web Scraping with BeautifulSoup and Requests | Learn to scrape and extract data from websites | [Link]() |
-
-### Final Project
-
-**Goal:** Build a web scraper that extracts data from a website and saves it to a CSV file using Jupyter Notebook.
-
-**Requirements:**
-- Use `requests` to access web content
-- Use `BeautifulSoup` to parse HTML
-- Write extracted data to a `.csv` file
-- Present your script in a clean and commented Jupyter Notebook
-
 
 ---
 
