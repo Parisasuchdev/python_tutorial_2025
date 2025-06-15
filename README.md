@@ -1,4 +1,4 @@
-# Python Tutorial Curriculum
+# Python Tutorial 2025 Interns
 
 This tutorial series is designed for learners with minimal background in Python. The curriculum is based on Corey Schafer's Python tutorials, progressing from foundational concepts to intermediate. These videos contain examples at end of them, practice those and have fun!
 
