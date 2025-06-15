@@ -1,32 +1,75 @@
-# Python Tutorial 2025
+# Python Tutorial Curriculum
 
-## 1. Installations
+This tutorial series is designed for learners with minimal background in Python. The curriculum is based on Corey Schafer's Python tutorials, progressing from foundational concepts to intermediate. These videos contain examples at end of them, practice those and have fun!
 
-### 1.1 Anaconda
+Link to full playlist | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh) |
 
-Anaconda is a distribution of Python and R for scientific computing and data science. It includes a lot of packages and tools for data science.
+## Module 1: Python Fundamentals
 
-#### Installation Guide
+**Goal:** Build a solid foundation in Python syntax, data types, and control structures.
 
-Let's first check if it's already installed on your computers:
+| # | Title | Description | YouTube Link |
+|---|-------|-------------|--------------|
+| 1 | Install and Setup for Mac and Windows | Python installation and environment setup | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=1) |
+| 2 | Strings | Working with textual data: slicing, methods, immutability | [Link](https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=2) |
+| 3 | Integers and Floats | Numeric data types and basic operations | [Link](https://www.youtube.com/watch?v=khKv-8q7YmY&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=3) |
+| 4 | Lists, Tuples, and Sets | Basic data structures and their use cases | [Link](https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=4) |
+| 5 | Dictionaries | Working with key-value pairs and nested data | [Link](https://www.youtube.com/watch?v=daefaLgNkw0&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=5) |
+| 6 | Conditionals and Booleans | If, else, elif statements and logical operations | [Link](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=6) |
+| 7 | Loops and Iterations | Using for/while loops, break, continue | [Link](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=7) |
+| 8 | Functions | Defining, calling, and understanding scope | [Link](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=8) |
+| 9 | F-Strings | | [Link](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=23) |
 
-#### Open Terminal
+**Milestone 1:** Complete a mini project (e.g., contact book, basic calculator)
 
-Open your terminal (or Anaconda Prompt on Windows) to run the following commands to check the installations:
+---
 
-```bash
-conda --version
-python --version
-```
+## Module 2: Working with Libraries, Data, and Environments
 
-If it says that it already exists, use this command in your terminal
-```bash
-sudo rm -rf /opt/anaconda3
-```
+**Objective:** Learn to import libraries, handle CSV data, use Jupyter Notebooks and Anaconda environments
 
-1. Go to the [Anaconda website](https://www.anaconda.com/products/distribution).
-3. Download the installer for your operating system (Windows, macOS, or Linux).
-   - Check mac chip version (intel or apple silicon) before downloading
-5. Run the installer and follow the instructions.
+This module transitions from basic Python syntax into practical scripting and data handling. You will learn how to work with external modules, process structured data
+### Tutorials
 
-**Note for Windows Users:** Make sure to check the option to add Anaconda to your PATH environment during installation.
+| # | Title | Description | YouTube Link |
+|---|-------|-------------|--------------|
+| 9 | Import Modules and Exploring the Standard Library | Learn how to use external and built-in Python libraries | [Link]() |
+| 13 | CSV Module - How to Read, Parse, and Write CSV Files | Learn to read, write, and manipulate CSV files with the `csv` module | [Link]() |
+| 14 | Real World Example - Parsing Names From a CSV to an HTML List | Apply file parsing techniques in a mini project | [Link]() |
+| 18 | Anaconda - Installation and Using Conda | Set up environments and manage packages using Anaconda | [Link]() |
+| 20 | Jupyter Notebook - Introduction, Setup, and Walkthrough | Learn to use Jupyter for interactive development and documentation | [Link]() |
+| 24 | Web Scraping with BeautifulSoup and Requests | Learn to scrape and extract data from websites | [Link]() |
+
+### Final Project
+
+**Goal:** Build a web scraper that extracts data from a website and saves it to a CSV file using Jupyter Notebook.
+
+**Requirements:**
+- Use `requests` to access web content
+- Use `BeautifulSoup` to parse HTML
+- Write extracted data to a `.csv` file
+- Present your script in a clean and commented Jupyter Notebook
+
+
+---
+
+## Module 3: Intermediate Python Concepts for NLP Learners
+
+**Objective:** Deepen understanding of Python through structured data manipulation, error handling, automation, and functional tools often used in NLP and data workflows.
+
+This module is ideal for interns interested in text processing, automation, and preparing for NLP libraries (e.g., NLTK, spaCy, transformers). These concepts will help build robust, scalable scripts for handling real-world data.
+
+### Tutorials
+
+| # | Title | Description | YouTube Link |
+|---|-------|-------------|--------------|
+| 10 | OS Module - Use Underlying Operating System Functionality | Work with file systems and automate directory operations | [Link]() |
+| 11 | File Objects - Reading and Writing to Files | Understand file modes, context managers, reading and writing text | [Link]() |
+| 12 | Automate Parsing and Renaming of Multiple Files | Batch rename files and automate folder tasks | [Link]() |
+| 15 | Datetime Module - Work with Dates and Times | Handle timestamps and durations in text data | [Link]() |
+| 16 | Sorting Lists, Tuples, and Objects | Organize and prioritize data using sorting techniques | [Link]() |
+| 17 | Using Try/Except Blocks for Error Handling | Write resilient code that handles input and file issues | [Link]() |
+| 19 | How I Manage Multiple Projects, Virtual Environments, and Environment Variables | Organize and isolate development environments for large projects | [Link]() |
+| 21 | Comprehensions - How They Work and Why You Should Use Them | Write efficient code using list/set/dict comprehensions | [Link]() |
+| 22 | String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates | Format data for logs, outputs, and reports | [Link]() |
+| 23 | F-Strings - Advanced String Formatting | Modern string formatting for cleaner syntax | [Link]() |
