@@ -33,11 +33,11 @@ This module transitions from basic Python syntax into practical scripting and da
 | # | Title | Description | YouTube Link |
 |---|-------|-------------|--------------|
 | 9 | Import Modules and Exploring the Standard Library | Learn how to use external and built-in Python libraries | [Link]() |
-| 13 | CSV Module - How to Read, Parse, and Write CSV Files | Learn to read, write, and manipulate CSV files with the `csv` module | [Link]() |
-| 14 | Real World Example - Parsing Names From a CSV to an HTML List | Apply file parsing techniques in a mini project | [Link]() |
-| 18 | Anaconda - Installation and Using Conda | Set up environments and manage packages using Anaconda | [Link]() |
-| 20 | Jupyter Notebook - Introduction, Setup, and Walkthrough | Learn to use Jupyter for interactive development and documentation | [Link]() |
-| 24 | Web Scraping with BeautifulSoup and Requests | Learn to scrape and extract data from websites | [Link]() |
+| 10 | CSV Module - How to Read, Parse, and Write CSV Files | Learn to read, write, and manipulate CSV files with the `csv` module | [Link]() |
+| 11 | Real World Example - Parsing Names From a CSV to an HTML List | Apply file parsing techniques in a mini project | [Link]() |
+| 12 | Web Scraping with BeautifulSoup and Requests | Learn to scrape and extract data from websites | [Link]() |
+| 13 | Anaconda - Installation and Using Conda | Set up environments and manage packages using Anaconda | [Link]() |
+| 14 | Jupyter Notebook - Introduction, Setup, and Walkthrough | Learn to use Jupyter for interactive development and documentation | [Link]() |
 
 ---
 
@@ -45,19 +45,18 @@ This module transitions from basic Python syntax into practical scripting and da
 
 **Objective:** Deepen understanding of Python through structured data manipulation, error handling, automation, and functional tools often used in NLP and data workflows.
 
-This module is ideal for interns interested in text processing, automation, and preparing for NLP libraries (e.g., NLTK, spaCy, transformers). These concepts will help build robust, scalable scripts for handling real-world data.
+This module is ideal (not compulsory) for interns interested in text processing, automation, and preparing for NLP libraries (e.g., NLTK, spaCy, transformers). 
 
 ### Tutorials
 
 | # | Title | Description | YouTube Link |
 |---|-------|-------------|--------------|
-| 10 | OS Module - Use Underlying Operating System Functionality | Work with file systems and automate directory operations | [Link]() |
-| 11 | File Objects - Reading and Writing to Files | Understand file modes, context managers, reading and writing text | [Link]() |
-| 12 | Automate Parsing and Renaming of Multiple Files | Batch rename files and automate folder tasks | [Link]() |
-| 15 | Datetime Module - Work with Dates and Times | Handle timestamps and durations in text data | [Link]() |
-| 16 | Sorting Lists, Tuples, and Objects | Organize and prioritize data using sorting techniques | [Link]() |
-| 17 | Using Try/Except Blocks for Error Handling | Write resilient code that handles input and file issues | [Link]() |
-| 19 | How I Manage Multiple Projects, Virtual Environments, and Environment Variables | Organize and isolate development environments for large projects | [Link]() |
+| 15 | OS Module - Use Underlying Operating System Functionality | Work with file systems and automate directory operations | [Link]() |
+| 16 | File Objects - Reading and Writing to Files | Understand file modes, context managers, reading and writing text | [Link]() |
+| 17 | Automate Parsing and Renaming of Multiple Files | Batch rename files and automate folder tasks | [Link]() |
+| 18 | Datetime Module - Work with Dates and Times | Handle timestamps and durations in text data | [Link]() |
+| 19 | Sorting Lists, Tuples, and Objects | Organize and prioritize data using sorting techniques | [Link]() |
+| 20 | Using Try/Except Blocks for Error Handling | Write resilient code that handles input and file issues | [Link]() |
 | 21 | Comprehensions - How They Work and Why You Should Use Them | Write efficient code using list/set/dict comprehensions | [Link]() |
 | 22 | String Formatting - Advanced Operations for Dicts, Lists, Numbers, and Dates | Format data for logs, outputs, and reports | [Link]() |
 | 23 | F-Strings - Advanced String Formatting | Modern string formatting for cleaner syntax | [Link]() |
