@@ -18,7 +18,6 @@ Link to full playlist | [Link](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=
 | 6 | Conditionals and Booleans | If, else, elif statements and logical operations | [Link](https://www.youtube.com/watch?v=DZwmZ8Usvnk&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=6) |
 | 7 | Loops and Iterations | Using for/while loops, break, continue | [Link](https://www.youtube.com/watch?v=6iF8Xb7Z3wQ&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=7) |
 | 8 | Functions | Defining, calling, and understanding scope | [Link](https://www.youtube.com/watch?v=9Os0o3wzS_I&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=8) |
-| 9 | F-Strings | | [Link](https://www.youtube.com/watch?v=nghuHvKLhJA&list=PLu7Hcqy8NmKwv7Lw762dFzoSXqj3MwBsh&index=23) |
 
 **Milestone 1:** Complete a mini project (e.g., contact book, basic calculator)
 
